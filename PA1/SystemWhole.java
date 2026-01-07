@@ -1,4 +1,3 @@
-// DO NOT INCLUDE THIS IMPORT WHEN SENT FOR GRADING, THIS IS HERE TO HELP YOU DEBUG THE PROGRAM STATE
 import java.util.Arrays;
 
 public class SystemWhole {
